@@ -1,0 +1,9 @@
+Backend
+
+http://localhost:8260/api/auth/login
+http://localhost:8260/api/category
+
+Frontend
+
+http://localhost:8260/api/auth/login
+http://localhost:8260/api/category
